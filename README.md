@@ -1,5 +1,5 @@
 
-I am Jianyuan RUAN (阮建源), a dedicated robotics researcher. My research interests focus on SLAM, MAV, and 3D reconstruction. I have been working on **continuous mapping with uncertainty** for over **5 years**. Don't miss our novel LiDAR system [**SLAMesh**](https://github.com/labsun/SLAMesh), which differs from the LOAM-based method.
+I am Jianyuan RUAN (阮建源), a dedicated robotics researcher. My research interests focus on SLAM, MAV, and 3D reconstruction. I have been working on **continuous mapping with uncertainty** for over **5 years**. Don't miss our novel LiDAR system [**SLAMesh**](https://github.com/lab-sun/SLAMesh), which differs from the LOAM-based method.
 
 Currently, I am a Ph.D. candidate at The Hong Kong Polytechnic University (**PolyU**) under the supervision of [Prof. Zhang Dan](https://www.polyu.edu.hk/me/people/academic-teaching-staff/zhang-dan-prof/). Before that, I received both my Bachelor's and Master's degrees at Zhejiang University (**ZJU**).
 
